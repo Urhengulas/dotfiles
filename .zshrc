@@ -2,7 +2,7 @@
 # export PATH=$HOME/bin:/usr/local/bin:$PATH
 
 # Path to your oh-my-zsh installation.
-  export ZSH="/home/urhengulas/.oh-my-zsh"
+export ZSH="/home/urhengulas/.oh-my-zsh"
 
 # Set name of the theme to load --- if set to "random", it will
 # load a random theme each time oh-my-zsh is loaded, in which case,
@@ -63,16 +63,13 @@ COMPLETION_WAITING_DOTS="true"
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
 plugins=(
-  git
-  git-extras
   command-not-found
   docker
   extract
   pip
-  pipenv
+  poetry
   python
   sudo
-  vscode
 )
 
 source $ZSH/oh-my-zsh.sh
@@ -103,23 +100,16 @@ source $ZSH/oh-my-zsh.sh
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 alias act=env/bin/activate
-alias chrome=chromium
-alias chromium=chromium-browser
 alias claer=clear
 alias files=nautilus
-alias ipython=ipython3
 alias lisa='ls -lisah'
 alias open=xdg-open
 alias pip=pip3
 alias pose=docker-compose
-alias py=ipython
 alias python=python3
 
 export GOPATH="/home/urhengulas/go"
 
 # PATH variables
-PATH=$PATH:/snap/bin
-PATH=$PATH:"$HOME/Programs/flutter/bin"
-PATH=$PATH:"/lib/android-sdk/tools":"/lib/android-sdk/tools/bin"
-PATH="$PATH":"$HOME/Programs/flutter/.pub-cache/bin"
+PATH=$PATH:"/snap/bin"
 
