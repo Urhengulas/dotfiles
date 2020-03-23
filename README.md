@@ -21,4 +21,4 @@ Repo to save various files and lists needed when migrating to a new OS.
 * [vscode](https://github.com/Microsoft/vscode)
 
 ## .-files
-* [`.zshrc`]()
+* [`.zshrc`](.zshrc)
