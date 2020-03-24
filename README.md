@@ -25,6 +25,7 @@ Repo to save various files and lists needed when migrating to a new OS.
 
 ## ui-software I like
 * [firefox](https://developer.mozilla.org/en-US/docs/Mozilla/Firefox)
+* [terminator](https://launchpad.net/terminator/)
 * [vscode](https://github.com/Microsoft/vscode)
 
 
