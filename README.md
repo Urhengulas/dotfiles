@@ -10,6 +10,7 @@ Repo to save various files and lists needed when migrating to a new OS.
 
 ## tools I like
 * [bat](https://github.com/sharkdp/bat)
+* [curl](https://github.com/curl/curl)
 * [docker](https://docs.docker.com/install/)
 * [docker-compose](https://docs.docker.com/compose/install/)
 * firefox
@@ -18,6 +19,8 @@ Repo to save various files and lists needed when migrating to a new OS.
 * python
 * ipython
 * poetry
+* [snapd](https://github.com/snapcore/snapd)
+* vim
 * [vscode](https://github.com/Microsoft/vscode)
 
 ## .-files
