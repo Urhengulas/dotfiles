@@ -48,7 +48,7 @@ I am currently on fedora31
 * Git Graph
 * Markdown All in One
 * Python
-* Rust (rls)
+* ~~Rust (rls)~~ -> [rust-analyzer](https://rust-analyzer.github.io/)
 * Visual Studio IntelliCode
 * YAML
 
