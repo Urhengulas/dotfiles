@@ -1,0 +1,8 @@
+[user]
+	name = Urhengulas
+	email = johann.hemmann@code.berlin
+	signingkey = 57A261BF5305858E
+[core]
+	editor = nvim
+[commit]
+	gpgSign = true

@@ -55,4 +55,5 @@ I am currently on fedora31
 
 ## .-files
 * [`.aliases`](.aliases)
+* [`.gitconfig`](.gitconfig)
 * [`.zshrc`](.zshrc)
