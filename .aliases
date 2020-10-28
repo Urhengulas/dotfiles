@@ -1,4 +1,5 @@
 alias cat="bat --plain"
 alias claer=clear
+alias ls=exa
 alias la="ls -la"
 alias lisa="ls -lisah"

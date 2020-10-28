@@ -1,7 +1,7 @@
 [user]
 	name = Urhengulas
 	email = johann.hemmann@code.berlin
-	signingkey = 57A261BF5305858E
+	signingkey = 11454C2E44AD8569
 [core]
 	editor = nvim
 [commit]

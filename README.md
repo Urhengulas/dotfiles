@@ -8,7 +8,7 @@ Repo to save various files and lists needed when migrating to a new OS.
 - [cli-software I like](#cli-software-i-like)
 - [ui-software I like](#ui-software-i-like)
 - [vscode extensions](#vscode-extensions)
-- [.-files](#files)
+- [.-files](#-files)
 </details>
 
 ## about
@@ -21,6 +21,7 @@ I am currently on fedora31
 | [curl](https://github.com/curl/curl)                       | `dnf install curl`                                                                                               |
 | ~~[docker](https://docs.docker.com/install/)~~ -> podman   |                                                                                                                  |
 | [docker-compose](https://docs.docker.com/compose/install/) | multiple steps (see website)                                                                                     |
+| [exa](https://github.com/ogham/exa)                        | `dnf install exa`                                                                                                |
 | [flatpak](https://www.flatpak.org/)                        | preinstalled                                                                                                     |
 | git (later version)                                        | `dnf install git-all`                                                                                            |
 | [htop](https://github.com/hishamhm/htop)                   | `dnf install htop`                                                                                               |
@@ -29,6 +30,7 @@ I am currently on fedora31
 | python                                                     | preinstalled                                                                                                     |
 | [poetry](https://python-poetry.org/)                       | multiple steps ([see website](https://github.com/python-poetry/poetry#installation))                             |
 | [podman](https://podman.io/)                               | preinstalled                                                                                                     |
+| [ripgrep](https://github.com/BurntSushi/ripgrep)           |                                                                                                                  |
 | ~~[snapd](https://github.com/snapcore/snapd)~~ -> flatpak  |                                                                                                                  |
 | [tlp](https://linrunner.de/en/tlp/tlp.html)                | multiple steps ([see website](https://linrunner.de/en/tlp/docs/tlp-linux-advanced-power-management.html#fedora)) |
 | [tmux](https://github.com/tmux/tmux/wiki)                  | preinstalled                                                                                                     |
@@ -38,6 +40,7 @@ I am currently on fedora31
 ## ui-software I like
 | tool                                                                                  | get from                                                                                                |
 | :------------------------------------------------------------------------------------ | :------------------------------------------------------------------------------------------------------ |
+| [datagrip](https://www.jetbrains.com/datagrip/)                                       |                                                                                                         |
 | [firefox](https://developer.mozilla.org/en-US/docs/Mozilla/Firefox) developer edition | `flatpak install --from https://firefox-flatpak.mojefedora.cz/org.mozilla.FirefoxDevEdition.flatpakref` |
 | ~~[terminator](https://launchpad.net/terminator/)~~ -> tmux                           |                                                                                                         |
 | thunderbird                                                                           | `flatpak install flathub org.mozilla.Thunderbird`                                                       |
